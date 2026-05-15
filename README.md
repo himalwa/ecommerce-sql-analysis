@@ -55,3 +55,5 @@ This project focuses on ecommerce transaction analysis using SQL and relational 
 ## 🌟 Project Outcome
 
 This project strengthened practical SQL querying, analytical thinking, and business problem-solving skills through real-world ecommerce transaction analysis.
+
+<img src="image/sample_queries.png" width="500">
